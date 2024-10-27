@@ -1,4 +1,3 @@
-// pages/service/web-application.js
 import React from 'react';
 
 const WebApplication = () => {
